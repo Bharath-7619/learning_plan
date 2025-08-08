@@ -1,4 +1,4 @@
 # learning_plan
 Learning Git
 <br>
-Python
+what are the plans to learn.
